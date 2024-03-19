@@ -1,4 +1,3 @@
-from time import sleep
 from behave import given, when, then
 
 
